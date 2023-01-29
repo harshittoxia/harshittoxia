@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @harshittoxia
+- 👋 Hi, I’m Harshit
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning MERN stack, React native.
+- 🌱 I’m currently working as a Full stack software Developer (Angular/Springboot)
 - 💞️ I’m looking to collaborate on web development/ App development
 - 📫 How to reach me - You can mail me on htoxia69@gmail.com
 
